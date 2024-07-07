@@ -1,0 +1,71 @@
+.hire-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 140vh;
+    background-image: url("../PAGES/IMAGES/servicebg.jpg");
+    background-size: cover;
+  }
+  
+  .hire-form-container form {
+    width: 500px;
+    margin: 0 auto;
+    padding: 34px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .hire-form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-group input {
+    width: 100%; /* Make the input fields wider */
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .form-group .error-message {
+    color: #ff0000;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .form-group .success-message {
+    text-align: center;
+  }
+  
+  .form-group .success-message h2 {
+    margin-top: 0;
+  }
+  
+  .form-group .success-message p {
+    margin-bottom: 0;
+  }
+  
+  .form-group button[type="submit"] {
+    padding: 8px 16px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #2d3954;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .form-group button[type="submit"]:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }

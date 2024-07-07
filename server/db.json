@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "coursesName": "MERN",
+      "description": "The MERN stack has gained significant popularity among developers due to its flexibility, efficiency, and ease of use to developing modern web applications. Learn the Indemand technology",
+      "duration": "6 months",
+      "url": "https://miro.medium.com/v2/resize:fit:1400/0*BoZuMV2kfcjiiTDV.png",
+      "category": "SOFTWARE DEVELOPMENT",
+      "id": 1
+    },
+    {
+      "coursesName": "MEAN",
+      "description": "MongoDB is a NoSQL database that allows for flexible and scalable data storage. In the course,perform CRUD operations, and design efficient database schemas Application",
+      "duration": "6 months",
+      "url": "https://www.intelegain.com/wp-content/uploads/2020/01/Mean.png",
+      "category": "SOFTWARE DEVELOPMENT",
+      "id": 11
+    },
+    {
+      "coursesName": ".Net development",
+      "description": "A .NET course provides comprehensive training in the Microsoft .NET framework, equipping students with the skills to develop robust and scalable web and desktop application.",
+      "duration": "6 months",
+      "url": "https://www.abtosoftware.com/wp-content/uploads/2023/03/Dot-NET-development-services-cover-e1679349510450.png",
+      "category": "SOFTWARE DEVELOPMENT",
+      "id": 12
+    },
+    {
+      "coursesName": "FullStack Development",
+      "description": "Course provides comprehensive training in both front-end and back-end web development & skills to create fully functional web applications.it is cally by a full stack development",
+      "duration": "6 months",
+      "url": "https://www.multidots.com/wp-content/uploads/2018/01/Full_stack_developer-1-1.jpg",
+      "category": "SOFTWARE DEVELOPMENT",
+      "id": 13
+    },
+    {
+      "coursesName": "Embedded Automation",
+      "description": "Embedded systems are specialized computer systems designed to perform specific tasks within larger systems and dedicated to performing a specific function with real-time requirements.",
+      "duration": "6 months",
+      "url": "https://www.eetimes.com/wp-content/uploads/automotive-software.jpg",
+      "category": "AUTOMOTIVE EMBEDDED",
+      "id": 14
+    },
+    {
+      "coursesName": "MicroController",
+      "description": "\tSensors are devices that detect and measure physical phenomena and convert them into electrical signals.They play a crucial role in various industries,and environmental monitoring.",
+      "duration": "6 tamies",
+      "url": "https://predictabledesigns.com/wp-content/uploads/2018/01/HeroImage2.jpg",
+      "category": "AUTOMOTIVE EMBEDDED",
+      "id": 15
+    },
+    {
+      "coursesName": "Software Testing",
+      "description": "The Program is designed to make the learner expert in Java and Selenium. Program covers Java Programming and in-depth Selenium. You will be learn in detail about Automation testing",
+      "duration": "\t6 months",
+      "url": "https://devops.com/wp-content/uploads/2020/04/Software-Testing.jpg",
+      "category": "TESTING TRACK",
+      "id": 16
+    },
+    {
+      "coursesName": "Manual Testing",
+      "description": "The Program is designed to make the learner expert in Java and JMeter. The program covers Java Programming and in-depth JMeter. You will learn in detail about Performance testing",
+      "duration": "6 months",
+      "url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Manual_and_Automation_Testing.jpg",
+      "category": "TESTING TRACK",
+      "id": 17
+    },
+    {
+      "coursesName": "AutoCAD Mechanical",
+      "description": "AutoCAD Mechanical is a 2D and 3D drafting, designing, and documentation software program that is specifically designed for mechanical engineering.",
+      "duration": "6 months",
+      "url": "https://assets.isu.pub/document-structure/230412083716-d8b38b108cc2c48b87b2c3661515a801/v1/0c4a69e3266d326ebe6abec33f4c6857.jpeg",
+      "category": "MECHANICAL DESIGN",
+      "id": 18
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+.htdsection{
+  background: url(../PAGES//IMAGES/formbg.jpg);
+  background-size: cover;
+
+}
+#ApplyNow{
+  background: #FFF0EE;
+}
+.abstract-image13 {
+  background: url(../PAGES/IMAGES/abstract11.png) no-repeat;
+  display: inline-block;
+  width: 19%;
+  height: 35%;
+  background-size: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 80px;
+}
+.abstract-image14 {
+  background: url(../PAGES/IMAGES/abstract12.png) no-repeat;
+  display: inline-block;
+  width: 10%;
+  height: 40%;
+  background-size: 100%;
+  position: absolute;
+  right: 20px;
+  bottom: 100px;
+}

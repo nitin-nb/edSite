@@ -1,0 +1,30 @@
+
+.faq .container {
+    max-width: 70%;
+    border-radius: 5px;
+  }
+  .faq .box {
+    background-color: transparent;
+    margin-bottom: 20px;
+  }
+  .faq button {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin-left: 25%;
+    padding: 15px 20px;
+  }
+  .faq h2 {
+    font-weight: 500;
+  }
+  .faq p {
+    padding: 20px;
+  }
+  .faq .accordion:hover {
+    background-color: #ffedc8;
+    color: #fff;
+  }
+  
+  /*--------------faq-------------*/

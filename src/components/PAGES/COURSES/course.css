@@ -1,0 +1,266 @@
+.coursesCard {
+    margin-bottom: 100px;
+  }
+ .coursesCard .grid2 .items{
+  border-radius: 4%;
+  border: #1eb2a6 1px solid;
+background-image: url(../../Logo/cimg1.jpg);
+background-size: cover;
+background-attachment: fixed;
+ }
+
+ 
+ .coursesCard .grid2 .items:hover{
+  background-color: #def6f4;
+  border: #1eb2a6 3px solid;
+
+ }
+ 
+  .coursesCard .items {
+    background-color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  .coursesCard .img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    padding: 15px;
+  }
+  .coursesCard img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .coursesCard .text {
+    margin-left: 15px;
+    text-align: left;
+  }
+  .coursesCard .text h1 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    color: #fff;
+  }
+  .coursesCard .rate {
+    margin: 20px 0;
+    color: #ffffff;
+  }
+  .coursesCard .rate i {
+    font-size: 13px;
+    margin-right: 5px;
+  }
+  .coursesCard .details .dimg img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  .coursesCard .details .box {
+    display: flex;
+    align-items: center;
+    color: rgb(255, 255, 255);
+  }
+  .coursesCard .details span {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+  }
+
+  .coursesCard .price {
+    margin: 30px 0;
+    background-color: #f8f8f8;
+    padding: 10px;
+  }
+  .coursesCard h3 {
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+
+
+
+
+
+  .coursesCard1 {
+    margin-bottom: 100px;
+  }
+ .coursesCard1 .grid2 .items{
+  border-radius: 4%;
+  background-color: #fbcccc;
+  border: #1eb2a6 1px solid;
+background-image: url(../../Logo/cimg2.jpg);
+background-size: cover;
+background-attachment: fixed;
+ }
+
+ 
+ .coursesCard1 .grid2 .items:hover{
+  background-color: #def6f4;
+  border: #1eb2a6 3px solid;
+
+ }
+ 
+  .coursesCard1 .items {
+    background-color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  .coursesCard1 .img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    padding: 15px;
+  }
+  .coursesCard1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .coursesCard1 .text {
+    margin-left: 15px;
+    text-align: left;
+  }
+  .coursesCard1 .text h1 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    color: #fff;
+  }
+  .coursesCard1 .rate {
+    margin: 20px 0;
+    color: #ffffff;
+  }
+  .coursesCard1 .rate i {
+    font-size: 13px;
+    margin-right: 5px;
+  }
+  .coursesCard1 .details .dimg img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  .coursesCard1 .details .box {
+    display: flex;
+    align-items: center;
+    color: rgb(255, 255, 255);
+  }
+  .coursesCard1 .details span {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+  }
+
+  .coursesCard1 .price {
+    margin: 30px 0;
+    background-color: #f8f8f8;
+    padding: 10px;
+  }
+  .coursesCard1 h3 {
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+
+
+
+
+
+
+  /*-------------online---------*/
+  .online {
+    text-align: center;
+  }
+  .online .box {
+    box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
+    background-color: #fff;
+    padding: 30px 20px;
+    transition: 0.5s;
+  }
+  .online .img {
+    width: 80px;
+    height: 80px;
+    margin: 0;
+    position: relative;
+  }
+  .online img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .online h1 {
+    font-weight: 500;
+    font-size: 20px;
+    margin: 20px 0;
+    line-height: 30px;
+  }
+  .online span {
+    background-color: #f8f8f8;
+    padding: 5px 20px;
+    font-weight: 500;
+    font-size: 15px;
+    color: #1eb2a6;
+    border-radius: 5px;
+  }
+  .online .box .show {
+    opacity: 0;
+  }
+  .online .box:hover {
+    background-color: #1eb2a6;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .online .box:hover .show {
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .online .box:hover h1 {
+    color: #fff;
+  }
+
+
+
+
+
+  
+  /*-------------online---------*/
+  @media screen and (max-width: 768px) {
+  }
+  
+
+.card-link{
+position: relative;
+right: 120px;
+  outline: 0;
+  grid-gap: 8px;
+  align-items: center;
+  background: 0 0;
+  border: 3px solid #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  flex-shrink: 0;
+  font-size: 16px;
+  gap: 8px;
+  justify-content: center;
+  line-height: 1.5;
+  overflow: hidden;
+  padding: 12px 16px;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  transition: all .14s ease-out;
+  white-space: nowrap;
+  
+}
+.card-link:hover {
+  box-shadow: 4px 4px 0 #ffffff;
+  transform: translate(-4px,-4px);
+}
+.card-link:focus-visible{
+  outline-offset: 1px;
+}

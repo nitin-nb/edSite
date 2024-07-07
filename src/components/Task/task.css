@@ -1,0 +1,68 @@
+.add-courses-section {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .add-courses-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  select {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+  
+  button[type="submit"] {
+    width: 100%;
+  }
+  .add-courses-form {
+    /* background-color: rgba(0, 0, 0, 0.462); */
+    padding: 2rem;
+    border-radius: 5px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* manage page */
+
+  .centered-container {
+    display: flex;
+    justify-content: center;
+  }

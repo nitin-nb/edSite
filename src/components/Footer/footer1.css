@@ -1,0 +1,111 @@
+footer {
+    position: relative;
+    background: #4D2C5E;
+    padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.footercontainer {
+    width: 95%;
+}
+.footer-top {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.footer-top-right-widget ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-top-right-widget li {
+    display: inline-block;
+    margin: 0 5px;
+}
+.footer-top-right-widget li a {
+    width: 24px;
+    display: inline-block;
+    height: 24px;
+}.footer-top-right-widget ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-wrapper-one ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.footer-wrapper-one ul a {
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 0;
+    display: inline-block;
+}
+.feature-tile ul {
+    /* margin: 1.25rem 0; */
+    padding-left: 0px;
+}
+.feature-tile ul li {
+    list-style-type: none;
+}
+.footer-top-right-widget li {
+    display: inline-block;
+    margin: 0 5px;
+}
+.footer-top-right-widget li a {
+    width: 24px;
+    display: inline-block;
+    height: 24px;
+}
+.footer-middle {
+    padding-bottom: 50px;
+}
+.detail-wrapper h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #fff;
+    border-bottom: 1px solid;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+.detail-wrapper p {
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+}
+.footer-bottom {
+    position: relative;
+    background: #ffedc8;
+    padding: 12px 0;
+    width: 100%;
+}
+.footer-bottom p {
+    color: #000000;
+    font-size: 14px;
+    margin: 0;
+}
+.detail-wrapper p {
+    font-size: 14px;
+    color: #000000;
+}
+.colorwhite {
+    color: white !important;
+}
+.marginbottomzero {
+    margin-bottom: 0px !important;
+}
+.feature-tile ul li .align, .feature-tile ul li .text {
+    display: table-cell;
+}
+.contactlist {
+    padding-left: 8px;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}

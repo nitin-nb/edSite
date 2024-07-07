@@ -1,0 +1,93 @@
+.imgobj{
+    transform: translate(-19.9992px, 9.99999px) scale(1);
+}
+.abstract-image22 {
+    background: url(../IMAGES/abstract16.png) no-repeat;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-size: 100%;
+    position: absolute;
+    top: 20%;
+    left: 1%;
+}
+.abstract-image23 {
+    background: url(../IMAGES/abstract15.png) no-repeat;
+    display: inline-block;
+    width: 70px;
+    height: 75px;
+    background-size: 100%;
+    position: absolute;
+    bottom: 5%;
+    left: 18%;
+}
+.abstract-image24 {
+    background: url(../IMAGES/shape2.png) no-repeat;
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+    background-size: 100%;
+    position: absolute;
+    left: 1%;
+    bottom: 18%;
+}
+.abstract-image25 {
+    background: url(../IMAGES/shape6.png) no-repeat;
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background-size: 100%;
+    position: absolute;
+    left: 20%;
+    top: 5%;
+}
+.abstract-image26 {
+    background: url(../IMAGES/dotted-image3.png) no-repeat;
+    display: inline-block;
+    width: 80px;
+    height: 82px;
+    background-size: 100%;
+    position: absolute;
+    left: 70%;
+    top: 10%;
+}
+.abstract-image27 {
+    background: url(../IMAGES/shape4.png) no-repeat;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    background-size: 100%;
+    position: absolute;
+    left: 58%;
+    bottom: 35%;
+}
+.abstract-image28 {
+    background: url(../IMAGES/shape5.png) no-repeat;
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    position: absolute;
+    right: 30%;
+    bottom: 3%;
+}
+.abstract-image29 {
+    background: url(../IMAGES/shape3.png) no-repeat;
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    background-size: 100%;
+    position: absolute;
+    right: 7%;
+    bottom: 7%;
+}
+.abstract-image30 {
+    background: url(../IMAGES/abstract17.png) no-repeat;
+    display: inline-block;
+    width: 18px;
+    height: 25px;
+    background-size: 100%;
+    position: absolute;
+    right: 5%;
+    top: 20%;
+}
