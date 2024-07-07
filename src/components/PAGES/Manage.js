@@ -39,7 +39,7 @@ const Course = () => {
 
   return (
     <>
-      <div className="vector">
+      {/* <div className="vector">
         <div className="container-fluid">
           <div className="row">
             <div className="col-md-12">
@@ -48,29 +48,47 @@ const Course = () => {
             </div>
           </div>
         </div>
-      </div>
-      <Container fluid id="corss" style={{ marginBottom: "20px" }}>
+      </div> */}
+      <Container fluid id="corss" style={{ marginTop: 35,  marginBottom: "20px" }}>
         <div style={{ marginBottom: "20px" }}>
           <Button
-            variant={selectedCategory === "" ? "contained" : "outlined"}
+            // variant={selectedCategory === "" ? "contained" : "outlined"}
             color="primary"
-            style={{ margin: "5px" }}
+            sx={{
+              backgroundColor: selectedCategory === '' ? "#ff7426" : "#4d2c5e",
+              margin: "5px",
+              color: "white",
+              '&:hover': {
+              backgroundColor: '#000',
+            },
+            }}
             onClick={handleShowAllCourses}
           >
             All Courses
           </Button>
           {categories.map((category) => (
             <Button
-              key={category}
-              variant={selectedCategory === category ? "contained" : "outlined"}
-              color="primary"
-              style={{ margin: "5px" }}
-              onClick={() => handleCategoryFilter(category)}
-            >
-              {category}
-            </Button>
+            key={category}
+            color="primary"
+            sx={{
+              backgroundColor: selectedCategory === category ? "#ff7426" : "#4d2c5e",
+              margin: "5px",
+              color: "white",
+              '&:hover': {
+              backgroundColor: '#000',
+              color: '#fff'
+            },
+            }}
+            onClick={() => handleCategoryFilter(category)}
+          >
+            {category}
+          </Button>
+          
           ))}
         </div>
+
+        <h6 style={{backgroundColor:"#ffedc8", padding: 10, textAlign:"center", fontSize: 20}}>This is done using local server, dynamic server is under progress. Contact nitin nb for details regarding.</h6>
+
 
         <ImageList sx={{ width: 1400, marginBottom: "20px" }} cols={3}>
           {filteredTasks.map((task) => (
